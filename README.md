@@ -4,7 +4,7 @@ If you want to start learning about smart contract auditing, here are the resour
 
 ### YouTube Videos by Patrick
 
-1. [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ?si=ZHZtoPBARDTMvphc)
+1. [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ?si=ZHZtoPBARDTMvphc){:target="_blank"}
 2. [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://youtu.be/pUWmJ86X_do?si=W96RPv6hYUTTFvO_)
 
 ### Courses
